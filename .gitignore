@@ -1,2 +1,4 @@
 docker-init.sh
 /data
+**/.ipynb_checkpoints
+**/__pycache__
